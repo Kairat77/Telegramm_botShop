@@ -1,0 +1,10 @@
+venv
+.env
+
+config.py
+
+.idea
+.vscode
+__pycache__/
+*.py[cod]
+*.so
